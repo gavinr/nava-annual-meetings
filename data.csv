@@ -1,0 +1,57 @@
+﻿Number,Image1,URL,City,State,Country,Year,Image2,Latitude,Longitude
+0,http://nava.org/wp-content/uploads/2018/07/nava0.gif,https://nava.org/nava-0/,Boston,Massachusetts,USA,1967,http://nava.org/wp-content/uploads/2018/07/nava0.gif,42.370567,-71.026964
+1,http://nava.org/wp-content/uploads/2018/07/nava.gif,https://nava.org/nava-1,Purchase,New York,USA,1967,http://nava.org/wp-content/uploads/2018/06/nava-150.gif,41.04093,-73.71457
+2,http://nava.org/wp-content/uploads/2018/07/nava.gif,https://nava.org/nava-2,Chillum,Maryland,USA,1968,http://nava.org/wp-content/uploads/2018/06/nava-20-150-1.gif,38.999757,-76.970698
+3,http://nava.org/wp-content/uploads/2018/06/nava-3-220.gif,https://nava.org/nava-3-icv-3,Boston,Massachusetts,USA,1969,http://nava.org/wp-content/uploads/2018/06/nava-3-150.gif,42.370567,-71.026964
+4,http://nava.org/wp-content/uploads/2018/07/nava.gif,https://nava.org/all-annual-meetings/nava-4/,Pittsburgh,Pennsylvania,USA,1970,http://nava.org/wp-content/uploads/2018/06/nava-150.gif,40.47441,-79.950968
+5,http://nava.org/wp-content/uploads/2018/07/nava.gif,https://nava.org/nava-5,Ottawa,Ontario,Canada,1971,http://nava.org/wp-content/uploads/2018/06/nava-150.gif,45.421106,-75.690308
+6,http://nava.org/wp-content/uploads/2018/07/nava.gif,https://nava.org/nava-6,Chicago,Illinois,USA,1972,http://nava.org/wp-content/uploads/2018/06/nava-150.gif,41.88531,-87.62213
+7,http://nava.org/wp-content/uploads/2018/07/nava.gif,https://nava.org/nava-7,Valley Forge,Pennsylvania,USA,1973,http://nava.org/wp-content/uploads/2018/06/nava-150.gif,40.092269,-75.453735
+8,http://nava.org/wp-content/uploads/2018/07/nava.gif,https://nava.org/nava-8,Baltimore,Maryland,USA,1974,http://nava.org/wp-content/uploads/2018/06/nava-150.gif,39.296536,-76.623489
+9,http://nava.org/wp-content/uploads/2018/07/nava.gif,https://nava.org/nava-9/,Cleveland,Ohio,USA,1975,http://nava.org/wp-content/uploads/2018/06/nava-150.gif,41.489381,-81.667486
+10,http://nava.org/wp-content/uploads/2018/07/nava.gif,https://nava.org/nava-10/,Toronto,Ontario,Canada,1976,http://nava.org/wp-content/uploads/2018/06/nava-150.gif,43.653963,-79.387207
+11,http://nava.org/wp-content/uploads/2018/06/nava-11-220.gif,https://nava.org/nava-11-icv-7/,Washington,D.C.,USA,1977,http://nava.org/wp-content/uploads/2018/06/nava-11-150.gif,38.911936,-77.016719
+12,http://nava.org/wp-content/uploads/2018/06/nava-12-220.gif,https://nava.org/nava-12/,Montgomery,Alabama,USA,1978,http://nava.org/wp-content/uploads/2018/06/nava-12-150.gif,32.356988,-86.257817
+13,http://nava.org/wp-content/uploads/2018/06/nava-13-220.gif,https://nava.org/nava-13/,Salem,Massachusetts,USA,1979,http://nava.org/wp-content/uploads/2018/06/nava-13-150.gif,42.642845,-70.873647
+14,http://nava.org/wp-content/uploads/2018/06/nava-14-220.gif,https://nava.org/nava-14/,St. Louis,Missouri,USA,1980,http://nava.org/wp-content/uploads/2018/07/nava-14-150.gif,38.631501,-90.19231
+15,http://nava.org/wp-content/uploads/2018/06/nava-15-220.gif,https://nava.org/nava-15-icv-9/,Ottawa,Ontario,Canada,1981,http://nava.org/wp-content/uploads/2018/06/nava-15-150.gif,45.421106,-75.690308
+16,http://nava.org/wp-content/uploads/2018/06/nava-16-220.gif,https://nava.org/nava-16/,Pittsburgh,Pennsylvania,USA,1982,http://nava.org/wp-content/uploads/2018/06/nava-16-150.gif,40.47441,-79.950968
+17,http://nava.org/wp-content/uploads/2018/06/nava-17-220.gif,https://nava.org/nava-17/,New York City,New York,USA,1983,http://nava.org/wp-content/uploads/2018/06/nava-17-150.gif,40.68863,-74.018244
+18,http://nava.org/wp-content/uploads/2018/06/nava-18-220.gif,https://nava.org/nava-18/,Vancouver,British Columbia,Canada,1984,http://nava.org/wp-content/uploads/2018/06/nava-18-150.gif,49.260872,-123.113953
+19,http://nava.org/wp-content/uploads/2018/06/nava-19-220.gif,https://nava.org/nava-19/,Kansas City,Missouri,USA,1985,http://nava.org/wp-content/uploads/2018/06/nava-19-150.gif,39.102404,-94.598583
+20,http://nava.org/wp-content/uploads/2018/06/nava-20-220.gif,https://nava.org/nava-20/,Bordentown,New Jersey,USA,1986,http://nava.org/wp-content/uploads/2018/06/nava-20-150-1.gif,40.101535,-74.724711
+21,http://nava.org/wp-content/uploads/2018/06/nava-21-220.gif,https://nava.org/nava-21-icv-12,San Francisco,California,USA,1987,http://nava.org/wp-content/uploads/2018/06/nava-21-150.gif,37.776646,-122.417481
+22,http://nava.org/wp-content/uploads/2018/06/nava-22-220.gif,https://nava.org/nava-22/,Portsmouth,New Hampshire,USA,1988,http://nava.org/wp-content/uploads/2018/06/nava-22-150.gif,43.005895,-71.013202
+23,http://nava.org/wp-content/uploads/2018/06/nava-23-220.gif,https://nava.org/nava-23/,Dallas,Texas,USA,1989,http://nava.org/wp-content/uploads/2018/06/nava-23-150.gif,32.781179,-96.790329
+24,http://nava.org/wp-content/uploads/2018/06/nava-24-220.gif,https://nava.org/nava-24/,North York,Ontario,Canada,1990,http://nava.org/wp-content/uploads/2018/06/nava-24-150.gif,43.02244,-79.889801
+25,http://nava.org/wp-content/uploads/2018/06/nava-25-220.gif,https://nava.org/nava-25/,Minneapolis,Minnesota,USA,1991,http://nava.org/wp-content/uploads/2018/06/nava-25-150.gif,44.984577,-93.269097
+26,http://nava.org/wp-content/uploads/2018/06/nava-26-220.gif,https://nava.org/nava-26-1992/,San Antonio,Texas,USA,1992,http://nava.org/wp-content/uploads/2018/06/nava-26-150.gif,29.468413,-98.528889
+27,http://nava.org/wp-content/uploads/2018/06/nava-27-220.gif,https://nava.org/nava-27-1993/,Portland,Maine,USA,1993,http://nava.org/wp-content/uploads/2018/06/nava-27-150.gif,43.658784,-70.262393
+28,http://nava.org/wp-content/uploads/2018/06/nava-28-220.gif,https://nava.org/nava-28/,Portland,Oregon,USA,1994,http://nava.org/wp-content/uploads/2018/06/nava-28-150.gif,45.507856,-122.690794
+29,http://nava.org/wp-content/uploads/2018/06/nava-29-220.gif,https://nava.org/nava-29-1995/,Cincinnati,Ohio,USA,1995,http://nava.org/wp-content/uploads/2018/06/nava-29-150.gif,39.166759,-84.53822
+30,http://nava.org/wp-content/uploads/2018/06/nava-30-220.gif,https://nava.org/nava-30/,Sacramento,California,USA,1996,http://nava.org/wp-content/uploads/2018/06/nava-30-150.gif,38.380456,-121.555406
+31,http://nava.org/wp-content/uploads/2018/06/nava-31-220.gif,https://nava.org/nava-31-meeting-1997/,Chicago,Illinois,USA,1997,http://nava.org/wp-content/uploads/2018/06/nava-31-150.gif,41.88531,-87.62213
+32,http://nava.org/wp-content/uploads/2018/06/nava-32-220.gif,https://nava.org/nava-32-meeting-1998/,Ville de Québec,Québec,Canada,1998,http://nava.org/wp-content/uploads/2018/06/nava-32-150.gif,46.82596,-71.235223
+33,http://nava.org/wp-content/uploads/2018/06/nava-33-220.gif,https://nava.org/nava-33-meeting-1999/,Victoria,British Columbia,Canada,1999,http://nava.org/wp-content/uploads/2018/06/nava-33-150.gif,48.428318,-123.364953
+34,http://nava.org/wp-content/uploads/2018/06/nava-34-220.gif,https://nava.org/nava-34-meeting-2000,East Lansing,Michigan,USA,2000,http://nava.org/wp-content/uploads/2018/06/nava-34-150.gif,42.763888,-84.458771
+35,http://nava.org/wp-content/uploads/2018/06/nava-35-220.gif,https://nava.org/nava-35-2001/,Norfolk,Virginia,USA,2001,http://nava.org/wp-content/uploads/2018/06/nava-35-150.gif,36.895911,-76.208521
+36,http://nava.org/wp-content/uploads/2018/06/nava-36-220.gif,https://nava.org/nava-36-2002/,Denver,Colorado,USA,2002,http://nava.org/wp-content/uploads/2018/06/nava-36-150.gif,39.760189,-104.996553
+37,http://nava.org/wp-content/uploads/2018/06/nava-37-220.gif,https://nava.org/nava-37-2003/,Montréal,Québec,Canada,2003,http://nava.org/wp-content/uploads/2018/06/nava-37-150.gif,45.497216,-73.610364
+38,http://nava.org/wp-content/uploads/2018/06/nava-38-220.gif,https://nava.org/nava-38-2004/,Indianapolis,Indiana,USA,2004,http://nava.org/wp-content/uploads/2018/06/nava-38-150.gif,39.775092,-86.13216
+39,http://nava.org/wp-content/uploads/2018/06/nava-39-220.gif,https://nava.org/nava-39-2005/,Nashville,Tennessee,USA,2005,http://nava.org/wp-content/uploads/2018/06/nava-39-150.gif,36.165688,-86.778098
+40,http://nava.org/wp-content/uploads/2018/06/nava-40-220.gif,https://nava.org/nava-40-2006/,Reno,Nevada,USA,2006,http://nava.org/wp-content/uploads/2018/06/nava-40-150.gif,39.525749,-119.813051
+41,http://nava.org/wp-content/uploads/2018/06/nava-41-220.gif,https://nava.org/nava-41-2007/,Hartford,Connecticut,USA,2007,http://nava.org/wp-content/uploads/2018/06/nava-41-150.gif,41.78007,-72.677099
+42,http://nava.org/wp-content/uploads/2018/06/nava-42-220.gif,https://nava.org/nava-42-2008/,Austin,Texas,USA,2008,http://nava.org/wp-content/uploads/2018/06/nava-42-150.gif,30.326374,-97.771258
+43,http://nava.org/wp-content/uploads/2018/06/nava-43-220.gif,https://nava.org/nava-43-2009/,Charleston,South Carolina,USA,2009,http://nava.org/wp-content/uploads/2018/06/nava-43-2.jpg,32.780326,-79.940844
+44,http://nava.org/wp-content/uploads/2018/06/nava-44-220.gif,https://nava.org/nava-44-2010/,Los Angeles,California,USA,2010,http://nava.org/wp-content/uploads/2018/06/nava-44-150.gif,33.973951,-118.248405
+45,http://nava.org/wp-content/uploads/2018/06/nava-45-220.gif,https://nava.org/nava-45-2011/,Washington,D.C.,USA,2011,http://nava.org/wp-content/uploads/2018/06/nava-45-150.gif,38.911936,-77.016719
+46,http://nava.org/wp-content/uploads/2018/06/nava-46-220.gif,https://nava.org/nava-46-2012/,Columbus,Ohio,USA,2012,http://nava.org/wp-content/uploads/2018/06/nava-46-150.gif,40.100924,-83.013402
+47,http://nava.org/wp-content/uploads/2018/06/nava-47-220.gif,https://nava.org/nava-47-2013/,Salt Lake City,Utah,USA,2013,http://nava.org/wp-content/uploads/2018/06/nava-47-150.gif,40.756095,-111.900719
+48,http://nava.org/wp-content/uploads/2018/06/nava-48-220.gif,https://nava.org/nava-48-2014/,New Orleans,Louisiana,USA,2014,http://nava.org/wp-content/uploads/2018/06/nava-48-150.gif,29.958304,-90.077
+49,http://nava.org/wp-content/uploads/2018/06/nava-49-220.gif,https://nava.org/nava-49-2015/,Ottawa,Ontario,Canada,2015,http://nava.org/wp-content/uploads/2018/06/nava-49-150.gif,45.421106,-75.690308
+50,http://nava.org/wp-content/uploads/2018/06/nava-50-220.gif,https://nava.org/nava-50-2016,San José,California,USA,2016,http://nava.org/wp-content/uploads/2018/06/nava-50-150.gif,37.189396,-121.705327
+51,http://nava.org/wp-content/uploads/2018/06/nava-51-220.gif,https://nava.org/nava-51-2017,Boston,Massachusetts,USA,2017,http://nava.org/wp-content/uploads/2018/07/nava-51-150.gif,42.370567,-71.026964
+52,http://nava.org/wp-content/uploads/2018/06/nava-52-220.gif,https://nava.org/nava-52-2018,Québec City,Québec,Canada,2018,http://nava.org/wp-content/uploads/2018/01/QuebecProvince-300x199.gif,46.8588,-71.192
+53,http://nava.org/wp-content/uploads/2017/10/ICV28-Flag_220x147-1.png,https://nava.org/all-annual-meetings/nava-53-2019/,San Antonio,Texas,USA,2019,https://nava.org/wp-content/uploads/2020/01/vex-nava53.gif,29.468413,-98.528889
+54,https://nava.org/wp-content/uploads/2020/05/NAVA-54-Flag.png,https://nava.org/nava-54-2020/,Online in Cyberspace,,,2020,https://nava.org/wp-content/uploads/2020/05/NAVA-54-Flag.png,39.903026,-86.28395
+55,https://nava.org/wp-content/uploads/2019/07/nava-54-flag-220wide.gif,http://nava.org/nava-54-2020/,St. Augustine,Florida,USA,2021,https://nava.org/wp-content/uploads/2019/07/nava-54-flag-220wide.gif,29.918235,-81.367087
